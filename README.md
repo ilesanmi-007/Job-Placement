@@ -4,3 +4,7 @@ This is an exploratory and predictive analysis on factors that affect job placem
 
 # Objectives:
 To see every factors that affect jobplacement and to build a predictive model
+
+
+
+Conclusion:
